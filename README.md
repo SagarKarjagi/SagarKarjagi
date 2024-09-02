@@ -57,6 +57,7 @@ Role: Associate Pharmacovigilance
 
 📜 Certifications
 
-🏆 Certified in Data Analytics and Python with Gold honors from SkilloVilla.\n
+🏆 Certified in Data Analytics and Python with Gold honors from SkilloVilla.
+
 🏆 Certified in SQL and Python from HackerRank.
 
