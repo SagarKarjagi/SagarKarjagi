@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Sagar Karjagi
 
-## **[Data Analyst Portfolio](https://github.com/SagarKarjagi/Data-Analyst-Portfolio)**
+## **[My_Portfolio](https://sagarkarjagi.github.io/Data-Analyst-Portfolio/)**
 
 I'm aspiring to become a data professional, and I'm all about that hustle to keep learning and growing in the data game. I'm diving into the world of data analysis, even though my formal background didn't exactly lead me down the computer science or statistics path. But guess what? I'm not letting that stop me!
 
