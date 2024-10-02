@@ -55,7 +55,7 @@ This repository showcases my skills, projects, and progress in the **Data Analyt
 - **Tools Used**: Power BI, Python.
 - **Outcome**: The interactive dashboard enhanced data-driven decision-making for match stages.
   
-<img src="https://github.com/SagarKarjagi/Power-BI/blob/main/Cricket_Dashboard.png" alt="Left Image" width="320" height="250"/>  <img src="https://github.com/SagarKarjagi/Power-BI/blob/main/Players_details.png" alt="Center Image" width="320" height="250"/>  <img src="https://github.com/SagarKarjagi/Power-BI/blob/main/Final_11%20players.png" alt="Right Image" width="320" height="250"/>
+<img src="https://github.com/SagarKarjagi/Power-BI/blob/main/Cricket_Dashboard.png" alt="Left Image" width="310" height="240"/>  <img src="https://github.com/SagarKarjagi/Power-BI/blob/main/Players_details.png" alt="Center Image" width="310" height="240"/>  <img src="https://github.com/SagarKarjagi/Power-BI/blob/main/Final_11%20players.png" alt="Right Image" width="310" height="240"/>
 
 ---
 
